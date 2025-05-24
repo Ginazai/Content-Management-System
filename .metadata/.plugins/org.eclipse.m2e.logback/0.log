@@ -713,3 +713,4 @@
 2025-04-28 22:24:26,167 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-04-28 22:24:26,213 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2122 resources from src\main\resources to target\classes
 2025-04-28 22:24:26,538 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Users\FakeR\eclipse-workspace\spring-workspaces\GestorDeContenido\Admon\src\test\resources
+2025-05-20 10:40:03,026 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
